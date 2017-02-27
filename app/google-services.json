@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "210612032393",
+    "firebase_url": "https://first-firebase-605f5.firebaseio.com",
+    "project_id": "first-firebase-605f5",
+    "storage_bucket": "first-firebase-605f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210612032393:android:db690785ceeaeb38",
+        "android_client_info": {
+          "package_name": "com.tavoeh.firtsfirebug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210612032393-cfli4id81e2vg81ekeea29f8gl0j2sa5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULwwFHzsAE_V3EBAvzcFNebJEEOzB3sM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
